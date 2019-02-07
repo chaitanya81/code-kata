@@ -2,8 +2,9 @@
 
 Fork this repository and implement
 
-https://github.com/chaitanya81/code-kata/blob/master/barchart.png
+![alt text](https://github.com/chaitanya81/code-kata/blob/master/barchart.png)
 
-Create a web application that will display tasks that were completed per day.  (See barchart.png)
+Create a web application that will display tasks that were completed per day. (See barchart.png)
 
 If possible, use Angular CLI, REST API and a dataSource of your choice (can be in-memory data source).
+
