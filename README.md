@@ -4,8 +4,8 @@ Fork this repository and implement
 
 ![alt text](https://github.com/chaitanya81/code-kata/blob/master/barchart.png)
 
-It's tasks that should have been completed per day vs tasks that were completed.
+Create a web application that will display tasks that were completed per day.
 
-If possible use Angular CLI.
+If possible, use Angular CLI, REST API and DataSource of your choice (can be in-memory data source).
 
-But it should include a REST API with a Datasouce (can be in memory).
+If possible use Angular CLI
