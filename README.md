@@ -7,5 +7,3 @@ Fork this repository and implement
 Create a web application that will display tasks that were completed per day.
 
 If possible, use Angular CLI, REST API and DataSource of your choice (can be in-memory data source).
-
-If possible use Angular CLI
