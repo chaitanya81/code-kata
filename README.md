@@ -6,6 +6,6 @@ Fork this repository and implement
 
 It's tasks that should have been completed per day vs tasks that were completed.
 
-Use any programming language you like.
+If possible use Angular CLI.
 
-But it should include a REST API with a Datasouce (can be in memeory).
+But it should include a REST API with a Datasouce (can be in memory).
