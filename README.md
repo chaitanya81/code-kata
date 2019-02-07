@@ -2,7 +2,7 @@
 
 Fork this repository and implement
 
-![alt text](https://raw.githubusercontent.com/chaitanya/code-kata/master/barchart.png)
+![alt text](https://github.com/chaitanya81/code-kata/blob/master/barchart.png)
 
 It's tasks that should have been completed per day vs tasks that were completed.
 
