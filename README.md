@@ -4,9 +4,9 @@
 
 **Fork the above repository and implement the following:**
 
-Create a web application that will display a bargraph of tasks that were completed per day. (See barchart.png)
+Create a web application with TasksCompleted Component that will display a bargraph of tasks that were completed per day. (See barchart.png)
 
-If possible, use Angular CLI, a REST API and a dataSource of your choice (can be in-memory data).
+If possible, use Angular CLI, a REST API and a dataSource of your choice (can be an in-memory database).
 
 We prefer you use TDD.  Please make sure your tests pass.
 
