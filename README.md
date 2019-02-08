@@ -10,5 +10,5 @@ If possible, use Angular CLI, a REST API and a dataSource of your choice (can be
 
 We prefer you use TDD.  Please make sure your tests pass.
 
-When complete share with:
+When complete share it with:
 chaitanya.munagala@cardinalhealth.com ; chad.ramsey@cardinalhealth.com
