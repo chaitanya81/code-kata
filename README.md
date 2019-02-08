@@ -1,10 +1,18 @@
 # code-kata
 
-Fork this repository and implement
-
 ![alt text](https://github.com/chaitanya81/code-kata/blob/master/barchart.png)
 
-Create a web application that will display tasks that were completed per day. (See barchart.png)
+Fork the above repository and implement the following:
 
-If possible, use Angular CLI, REST API and a dataSource of your choice (can be in-memory data source).
+Create a web application that will display a bargraph of tasks that were completed per day. (See barchart.png)
+
+If possible, use Angular CLI, a REST API and a dataSource of your choice (can be in-memory data).
+
+We prefer you use TDD.  PLease make sure your tests pass.
+
+When complete, create a new GitHub repository and share with:
+chaitanya.munagala@cardinalhealth.com ; chad.ramsey@cardinalhealth.com
+
+
+
 
